@@ -1,7 +1,7 @@
 ﻿/*
- * Student ID :
- * Name       :
- * Section    :
+ * Student ID : 1690700115
+ * Name       : jiraroj Ieowsuwan
+ * Section    : 129A
  * No.        :
  * Course     : GI113 Computer Programming (GI
  */
