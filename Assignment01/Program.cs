@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Student ID : 1690700115
 * Name       : jiraroj Ieowsuwan
 * Section    : 129A
@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Assignment01
+namespace Assignment1
 {
     internal class Program
     {
